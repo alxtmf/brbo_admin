@@ -62,6 +62,8 @@
   <subsystems>Subsystem.Администрирование</subsystems>
   <subsystems>Subsystem.ПодключаемыеОтчетыИОбработки</subsystems>
   <subsystems>Subsystem.СтандартныеПодсистемы</subsystems>
+  <subsystems>Subsystem.СправочнаяИнформация</subsystems>
+  <subsystems>Subsystem.МониторингРаботы</subsystems>
   <styleItems>StyleItem.ВажнаяНадписьШрифт</styleItems>
   <styleItems>StyleItem.ВидДняПроизводственногоКалендаряВоскресеньеЦвет</styleItems>
   <styleItems>StyleItem.ВидДняПроизводственногоКалендаряНеУказанЦвет</styleItems>
@@ -2044,4 +2046,5 @@
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.РазделыДатЗапретаИзменения</chartsOfCharacteristicTypes>
   <businessProcesses>BusinessProcess.Задание</businessProcesses>
   <tasks>Task.ЗадачаИсполнителя</tasks>
+  <externalDataSources>ExternalDataSource.Брокер</externalDataSources>
 </mdclass:Configuration>
